@@ -98,19 +98,19 @@ body {
     }
     .allTabs {
         display: flex;
-        padding: 25px;
+        padding: 22px;
         height: 20px;
         font-weight: bold;
         font-family: 'Times New Roman', Times, serif;
         font-size: 15px;
     }
     .homeTab {
-        margin-right: 15px;
+        margin-right: 12px;
     }
     .aboutTab {
-        margin-right: 15px;
+        margin-right: 12px;
     }
     .shopTab {
-        margin-right: 15px;
+        margin-right: 12px;
     }
 }
