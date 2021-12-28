@@ -81,7 +81,7 @@ body {
 @media only screen and (max-width: 767px) {
     .logo img {
         height: 100%;
-        width: 80px;
+        width: 60px;
         margin: auto 0;
         position: absolute;
         top: 0px;
@@ -98,19 +98,19 @@ body {
     }
     .allTabs {
         display: flex;
-        padding: 22px;
-        height: 20px;
+        padding: 20px;
+        height: 16px;
         font-weight: bold;
         font-family: 'Times New Roman', Times, serif;
         font-size: 15px;
     }
     .homeTab {
-        margin-right: 12px;
+        margin-right: 10px;
     }
     .aboutTab {
-        margin-right: 12px;
+        margin-right: 10px;
     }
     .shopTab {
-        margin-right: 12px;
+        margin-right: 10px;
     }
 }
