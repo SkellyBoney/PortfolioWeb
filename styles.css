@@ -14,10 +14,10 @@ body {
 .allTabs {
     display: flex;
     padding: 30px;
-    height: 20px;
+    height: 25px;
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 15px;
+    font-size: 20px;
 }
 .homeTab a {
     color: rgb(255, 0, 0);
@@ -100,8 +100,6 @@ body {
         display: flex;
         padding: 20px;
         height: 16px;
-        font-weight: bold;
-        font-family: 'Times New Roman', Times, serif;
         font-size: 15px;
     }
     .homeTab {
